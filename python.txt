@@ -1,0 +1,125 @@
+a = str(input()) 
+b = str(input())
+a1 = "a"
+a2 = "p"
+a3 = "b"
+a4 = "l"
+a5 = "i"
+a6 = "c"
+a7 = "d"
+a8 = "t"
+a9 = "e"
+a10 = "o"
+a11 = "n"
+a12 = "f"
+a13 = "g"
+a14 = "h"
+a15 = "j"
+a16 = "k"
+a17 = "m"
+a18 = "r"
+a19 = "s"
+a20 = "u"
+a21 = "v"
+a22 = "u"
+a23 = "x"
+a24 = "y"
+a25 = "z"
+if a == a1:
+  m=a2
+elif a==a2:
+  m=a3
+if a == a3:
+  m=a4
+elif a==a4:
+  m=a5
+if a == a5:
+  m=a6
+elif a==a6:
+  m=a7
+if a == a7:
+  m=a8
+elif a==a8:
+  m=a9
+if a == a9:
+  m=a10
+elif a==a10:
+  m=a11
+if a == a11:
+  m=a12
+elif a==a12:
+  m=a13
+if a == a13:
+  m=a14
+elif a==a14:
+  m=a15
+if a == a15:
+  m=a16
+elif a==a16:
+  m=a17
+if a == a17:
+  m=a18
+elif a==a18:
+  m=a19
+if a == a19:
+  m=a20
+elif a==a20:
+  m=a21
+if a == a21:
+  m=a22
+elif a==a22:
+  m=a23
+if a == a23:
+  m=a24
+elif a==a24:
+  m=a25
+if b == a1:
+  v=a2
+elif b==a2:
+  v=b3
+if b == a3:
+  v=a4
+elif b==a4:
+  v=a5
+if b == a5:
+  v=a6
+elif b==a6:
+  v=a7
+if b == a7:
+  v=a8
+elif b==a8:
+  v=a9
+if b == a9:
+  v=a10
+elif b==a10:
+  v=a11
+if b == a11:
+  v=a12
+elif b==a12:
+  v=a13
+if b == a13:
+  v=a14
+elif b==a14:
+  v=a15
+if b == a15:
+  v=a16
+elif b==a16:
+  v=a17
+if b == a17:
+  v=a18
+elif b==a18:
+  v=a19
+if b == a19:
+  v=a20
+elif b==a20:
+  v=a21
+if b == a21:
+  v=a22
+elif b==a22:
+  v=a23
+if b == a23:
+  v=a24
+elif b==a24:
+  v=a25
+
+print (m,v)
