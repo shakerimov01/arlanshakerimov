@@ -1,0 +1,48 @@
+<title>SUMMER GROUP</title>
+<style>
+body {
+  background-color: white;
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+
+<h1></h1>
+<H1>I am the biggest header with background color 4 C-s and double F</H1>
+<p>Timetable of our final exam is given below:</p>
+<table border="1" text-align="center" width="80%">
+<tr>
+<th>Name of module</th>
+<th>Date of exam room</th>
+<th>Link</th>
+<th>Supervisors</th>
+</tr>
+<tr>
+<td>*Informatics</td>
+<td>22.12.2014  A1,A2</td>
+<td>
+<a href="https://sdu.edu.kz/ru/%d0%b8%d0%bd%d0%b6%d0%b5%d0%bd%d0%b5%d1%80%d0%bd%d1%8b%d0%b5-%d0%b8-%d0%b5%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d0%b5-%d0%bd%d0%b0%d1%83%d0%ba%d0%b8/">
+Engineering faculty
+</a>
+</td>
+<td>Tolebi G</td>
+</tr>
+<tr>
+<td>
+Economics
+</td>
+<td>27.12.2014  D1,C2</td>
+<td>
+<a href="https://sdu.edu.kz/ru/%d1%88%d0%ba%d0%be%d0%bb%d0%b0-%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81%d0%b0/">
+Business School
+</a>
+</td>
+<td>Kuzhaniyazova A</td>
+</tr>
+</table>
+<a href="https://sdu.edu.kz/ru/suleyman-demirel-university-ru/">
+<img src="https://sun1-47.userapi.com/edkJ3B9hC_3B1c_VBk098PhkE_tQFovvlVL57A/Qh5Wk-82Yfk.jpg" alt="Avatar" style="width:500px" ></a>
+</body>
+</html>
